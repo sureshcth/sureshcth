@@ -5,8 +5,9 @@ I am Suresh, currently working as a Software Architect at the [Big Viking Games]
 [![Linkedin Badge](https://img.shields.io/badge/-sureshcth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sureshcth)](https://www.linkedin.com/in/sureshcth/)
 <!--
 [![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/)
--->
 [![Gmail Badge](https://img.shields.io/badge/-sureshcth@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sureshcth@gmail.com)](mailto:sureshcth@gmail.com)
+-->
+
 [![Gmail Badge](https://img.shields.io/badge/-sureshk.gec@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sureshk.gec@gmail.com)](mailto:sureshk.gec@gmail.com)
 <!--
 [![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
