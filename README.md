@@ -57,8 +57,8 @@ I am Suresh, currently working as a Software Architect at the [Big Viking Games]
 ![IOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
 -->
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <!--
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 -->
