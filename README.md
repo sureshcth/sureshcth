@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Suresh, currently working as a Software Architect at the [Big Viking Games](https://www.bigvikinggames.com). I am a Full-Stack developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Suresh, I am a Full-Stack developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-sureshcth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sureshcth)](https://www.linkedin.com/in/sureshcth/)
 <!--
